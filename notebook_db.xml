@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <topic name="Animal Things">
+    <note name="Dogs are better than cats 03">
+      <text> Dogs respond when you call their name (unlike cats, who just ignore you) </text>
+      <timestamp> 03/16/21 - 14:03:04 </timestamp>
+    </note>
+  </topic>
+<topic name="a"><note name="qpi"><text>qpi</text><timestamp>2025-03-20T13:34:14.899291</timestamp></note><note name="WikipediaLink"><text>https://en.wikipedia.org/wiki/API</text><timestamp>Wikipedia</timestamp></note><note name="WikipediaLink"><text>Error querying Wikipedia: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=opensearch&amp;search=network&amp;limit=1&amp;namespace=0&amp;format=json (Caused by NameResolutionError("&lt;urllib3.connection.HTTPSConnection object at 0x000001C7B137F390&gt;: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))</text><timestamp>Wikipedia</timestamp></note></topic></data>
